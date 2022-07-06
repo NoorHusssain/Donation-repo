@@ -1,1 +1,220 @@
-h1{ color: blue;}
+
+body{ margin: 0;}
+
+.bigimage{ min-height: 100vh; 
+
+display: flex;
+
+align-items: center;
+
+justify-content: center;
+
+background-image: url(donation13.png);
+
+background-position: center;
+
+background-size: cover;
+
+object-fit: cover;
+
+font-family: 'Roboto Slab', serif 
+
+}
+
+#content{ display: flex; 
+align-items: center;
+color: white;
+}
+
+#firstpara{ text-align: center;
+
+        font-family: 'Gulzar', serif;
+
+        font-weight: 700;
+
+
+border-radius: 10px;
+
+        padding-right: 4%;
+
+        align-items: center;
+    
+        color: white;
+
+}
+
+
+#giving{ color: #009ffd}
+
+.button{ text-decoration: none;
+    
+padding: 10px 15px;
+    color: white;
+
+    background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+
+    border-radius: 10px;
+
+    font-family: 'Press Start 2P', cursive;
+
+    font-weight: 700;
+
+    font-size: 1.5rem;
+
+    text-align: center;
+
+    margin: auto;
+
+
+position: absolute;
+
+left: 42%;
+
+justify-content: center;
+
+ display: flex;
+ 
+ font-family: 'Roboto Slab', serif;
+
+}
+
+.donate{ text-align: center;
+ position: relative;
+    top: 25px;
+}
+
+#afford{ font-size: 25px;
+font-weight: 700;
+
+color: #009ffd;}
+
+.number{ display: flex;
+padding-left: 180px;}
+
+#five{ font-family:'Poppins', sans-serif;
+
+         background-color: lightgrey;
+
+        width: 50px;
+
+        height: 50px;
+        
+        padding: 20px;
+
+        margin: 20px;
+font-size: 40px;
+position: relative;
+left: 230px;
+font-weight: 700;
+
+color: darkgray;
+
+text-align: center;
+
+background-size: auto;
+
+align-items: center;
+
+justify-content: center;
+
+display: flex;
+border-radius: 5px;
+}
+
+
+
+#ten{ font-family:'Poppins', sans-serif;
+
+        background-color: lightgrey;
+
+       width: 50px;
+
+       height: 50px;
+       
+       border: 3px solid #009ffd;
+
+       padding: 20px;
+
+       margin: 20px;
+font-size: 40px;
+position: relative;
+left: 230px;
+font-weight: 700;
+
+color: #009ffd;
+
+text-align: center;
+
+background-size: auto;
+
+align-items: center;
+
+justify-content: center;
+
+display: flex;
+border-radius: 5px;
+}
+
+#twenty{font-family:'Poppins', sans-serif;
+
+        background-color: lightgrey;
+
+       width: 50px;
+
+       height: 50px;
+       
+       padding: 20px;
+
+       margin: 20px;
+font-size: 40px;
+position: relative;
+left: 230px;
+font-weight: 700;
+
+color: darkgray;
+
+text-align: center;
+
+background-size: auto;
+
+align-items: center;
+
+justify-content: center;
+
+display: flex;
+border-radius: 5px; }
+
+#fifty{font-family:'Poppins', sans-serif;
+
+        background-color: lightgrey;
+
+       width: 50px;
+
+       height: 50px;
+       
+       padding: 20px;
+
+       margin: 20px;
+font-size: 40px;
+position: relative;
+left: 230px;
+font-weight: 700;
+
+color: darkgray;
+
+text-align: center;
+
+background-size: auto;
+
+align-items: center;
+
+justify-content: center;
+
+display: flex;
+border-radius: 5px;}
+
+
+        
+        
+
+
