@@ -55,7 +55,7 @@ padding: 10px 15px;
 
     border-radius: 10px;
 
-    font-family: 'Press Start 2P', cursive;
+   
 
     font-weight: 700;
 
@@ -105,7 +105,7 @@ padding-left: 180px;}
 font-size: 40px;
 position: relative;
 left: 230px;
-font-weight: 700;
+font-weight: 500;
 
 color: darkgray;
 
@@ -169,7 +169,7 @@ border-radius: 5px;
 font-size: 40px;
 position: relative;
 left: 230px;
-font-weight: 700;
+font-weight: 500;
 
 color: darkgray;
 
@@ -198,7 +198,7 @@ border-radius: 5px; }
 font-size: 40px;
 position: relative;
 left: 230px;
-font-weight: 700;
+font-weight: 500;
 
 color: darkgray;
 
@@ -213,8 +213,57 @@ justify-content: center;
 display: flex;
 border-radius: 5px;}
 
+input { border: none;
+        
+        border-bottom-style: groove;
+        outline: 0;
+        display: flex;
+justify-content: center;      
+align-items: center;
+text-align: center;
+padding: 0;
+margin: 0;
+position: absolute;
+left: 500px;
+font-size: 25px;
+color: #009ffd;
+}
+        
+.button-two{ text-decoration: none;
+    
+        padding: 10px 15px;
+            color: white;
+        
+            background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+        
+            border-radius: 10px;
 
+
+         font-weight: 700;
+        
+            font-size: 1rem;
+        
+            text-align: center;
+        
+            margin: auto;
         
         
+        position: absolute;
+        
+        left: 43%;
+        bottom: -460px;
+        justify-content: center;
+        
+         display: flex;
+         
+         font-family: 'Poppins', sans-serif;
+}  
 
 
+.plan{ display: flex;}
+
+#threeplan{ text-align: center;
+        position: relative;
+bottom: -200px;
+
+}
