@@ -213,11 +213,11 @@ justify-content: center;
 display: flex;
 border-radius: 5px;}
 
-input { border: none;
+.input { border: none;
         
         border-bottom-style: groove;
         outline: 0;
-        display: flex;
+        display: block;
 justify-content: center;      
 align-items: center;
 text-align: center;
@@ -254,16 +254,78 @@ color: #009ffd;
         bottom: -460px;
         justify-content: center;
         
-         display: flex;
+         display: block;
          
          font-family: 'Poppins', sans-serif;
 }  
 
 
-.plan{ display: flex;}
+
 
 #threeplan{ text-align: center;
         position: relative;
-bottom: -200px;
 
+font-family: 'Poppins', sans-serif;;
+}
+
+.our{ text-align: center;
+        position: relative;
+           bottom: -120px; 
+           font-family: 'Poppins', sans-serif;
+       }
+.funds{ display: flex;}
+
+.imgone{ align-items: center;
+justify-content: center;
+padding-left: 25px;
+}
+
+
+.background{ display: flex;
+align-items: center;
+justify-content: center;
+position: relative;
+left: 25px;
+bottom: -150px;
+
+}
+
+.describe{ word-wrap: break-word;
+width: 400px;
+justify-content: left;
+text-align: left;
+
+font-size: 16px;
+height: 250px;
+opacity: 10; 
+background-color: lightblue;
+border-radius: 5px;
+color:black;
+
+}
+.shelter{ word-wrap: break-word;
+        width: 400px;
+        justify-content: center
+        
+        font-size: 16px;
+        height: 250px;
+        opacity: 10; 
+        background-color:  lightcoral;
+        border-radius: 5px;
+        text-align:left;
+}
+
+.backgroundtwo{ margin: 50px;
+}
+
+.imgthree{ height: 65px;
+}
+ 
+.my{ display: block;
+}
+
+.updates{ text-align: center;
+position: relative;
+bottom: -150px;
+font-family:'Poppins', sans-serif; ;
 }
